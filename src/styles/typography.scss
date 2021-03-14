@@ -1,0 +1,12 @@
+a {
+  text-decoration: none;
+  color: $light;
+  transition: all 0.2s;
+
+  &:hover {
+    color: $accent;
+    cursor: pointer;
+    transform: scale(1.1) rotate(0.01turn);
+  }
+}
+
