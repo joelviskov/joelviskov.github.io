@@ -9,7 +9,7 @@ const Header = () => {
       <Container>
         <div className="grid-container">
           <div className="grid-item">
-            <ul>
+            <ul className="section-links">
               <SectionLink to="introduction">
                 Introduction
               </SectionLink>

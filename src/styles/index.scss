@@ -22,6 +22,12 @@ header {
   height: 5vh;
   z-index: 9001;
 
+  .section-links {
+    @media only screen and (max-width: 600px) {
+      display: none;
+    }
+  }
+
   .grid-container {
     display: grid;
     height: 100%;

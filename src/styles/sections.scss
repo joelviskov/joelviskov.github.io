@@ -1,13 +1,11 @@
 .container {
   height: 100%;
 
-  /* Medium devices (landscape tablets, 768px and up) */
   @media only screen and (max-width: 992px) {
     padding-left: 5vw;
     padding-right: 5vw;
   }
 
-  /* Large devices (laptops/desktops, 992px and up) */
   @media only screen and (min-width: 992px) {
     padding-left: 20vw;
     padding-right: 20vw;
