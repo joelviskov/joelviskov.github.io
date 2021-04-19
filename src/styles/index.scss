@@ -71,19 +71,5 @@ header {
   }
 }
 
-footer {
-  background-color: $dark;
-  color: $light;
-
-  .grid-container {
-    display: grid;
-    grid-template-columns: min-content auto;
-
-    .grid-item {
-      padding: 20px;
-    }
-  }
-}
-
 @import "sections";
 @import "typography";

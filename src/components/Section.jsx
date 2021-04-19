@@ -5,7 +5,7 @@ const Section = ({ title, children, ...props }) => {
     <Container {...props}>
       <div className="section">
         <div className="section-header">
-          <h2>{title}</h2>
+          <h2>{title} <hr /></h2>
         </div>
         <div>
           {children}

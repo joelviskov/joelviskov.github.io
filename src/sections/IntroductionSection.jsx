@@ -6,19 +6,26 @@ const IntroductionSection = () => {
     <Element name="introduction">
       <Section title="Introduction" className="introduction-section">
         <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id augue velit. Nulla aliquam consequat velit et malesuada. Quisque vel erat vel tellus vestibulum ornare. Vivamus massa est, pretium vitae sapien quis, pharetra bibendum diam. Ut condimentum, dolor quis mattis lobortis, augue mi pharetra velit, at sagittis enim magna a neque. Nulla congue sodales ligula, non rhoncus orci vulputate a. Cras pretium turpis vitae augue fringilla sollicitudin. Ut vel condimentum libero. Etiam nec mauris tortor. Aenean sodales odio nec sem mattis consectetur. Maecenas elementum viverra neque, ac faucibus diam convallis non. Curabitur pretium arcu id maximus elementum. Proin quis gravida est.
+          Computers have been central to me my whole life. From the age of young child, I have always been glued to the front of the screen - initially only video games, then computers and technology in general.
+          By the age of 12 I knew enough to build my first computer. Around that time I also had my first experience with programming world, building simple games with GameMaker (game engine) and JavaScript.
+          At the time those were only small projects with on-and-off interests, often quickly abandoned.
+          But it was enough to know I couldn't imagine myself doing anything else, and this is what I loved the most.
         </p>
+
         <p>
-        Maecenas eros sem, rhoncus nec bibendum auctor, scelerisque ut turpis. Donec vitae sapien arcu. Morbi sodales ut justo ac ultricies. Integer pretium eros vel turpis auctor molestie. Nulla placerat accumsan purus quis facilisis. Quisque at magna elit. Etiam dictum magna id maximus elementum.
+          Currently my team is responsible for the development of business-critical systems in one of the largest telecommunication companies in Scandinavia.
+          I'm showing high interest in DevOps world, automating CI/CD pipelines and ensuring high quality of code with less work and faster development cycle.
+          I have taken the responsibility of ensuring smooth deliveries, mentoring team members on good practises and setting up montitoring of staging and production environments.
+          Team members characterize me as very quick learner and not afraid to pick up any challenge. Numerous times I have been assigned a task on unfamiliar project and
+          I've found it easy to figure everything out, and it I think it even provides me excitement to see new systems and learn from them.
+          Over time I have done numerous demos to clients, and application demo to a audience of ~50 people.
         </p>
+
         <p>
-        Aenean id nisi ac nisl dignissim congue eu a massa. Nam eu auctor neque. Sed et dolor metus. Aliquam consequat luctus tincidunt. Donec sed eros finibus, iaculis orci nec, maximus diam. Aliquam eget ligula quam. Praesent nulla nunc, lobortis consectetur semper in, auctor sit amet dui. Praesent ut auctor nisi. Sed non egestas mauris, non blandit odio. Nulla lobortis malesuada ex, eget pharetra dolor lobortis sit amet.
-        </p>
-        <p>
-        Nulla fringilla vitae mauris ac consequat. Mauris dolor erat, auctor at condimentum tempor, luctus non nulla. Nulla elit velit, laoreet sed fringilla at, placerat nec turpis. Suspendisse potenti. Mauris aliquet consequat nibh eu hendrerit. Cras sapien mauris, tempor eu hendrerit ac, suscipit ac tellus. Praesent eleifend lacinia tortor, sit amet interdum est ultrices ac. Phasellus in ligula at ante feugiat congue. Duis non ultrices dui, vitae ultrices ex. Sed tempor nibh in mi aliquam aliquam. Nam tristique arcu eu dolor pretium pretium eu ut orci. Etiam nec risus sem. Aenean ullamcorper lacus vitae eros volutpat eleifend. Vestibulum maximus aliquet nisi, in ornare dolor tempus vitae. Mauris dictum quis risus id ornare.
-        </p>
-        <p>
-        Sed justo quam, molestie quis dolor sit amet, blandit maximus lorem. Cras tempor et leo id placerat. Etiam et suscipit dolor. Ut rhoncus quam sed elit suscipit rhoncus. Nulla at felis pellentesque felis molestie rhoncus ac ac orci. Aenean sed interdum libero. Nam turpis magna, gravida id sem sed, tristique convallis eros. Maecenas sit amet libero euismod, auctor lorem non, hendrerit ante. Sed vel ligula vitae neque sollicitudin pellentesque ut non ipsum. Aliquam sit amet volutpat lectus. Aenean eget purus vehicula, dignissim est ac, commodo dui.
+          Technologies that I use daily are .NET 5.0 and React + TypeScript, but I also have some knowledge of mobile development using React Native and Expo.
+          On hobby projects I try to use something different, like NodeJS for backend and Python for smaller programs like webcrawlers.
+          As a DevOps enthusiast, I have been trying to dive further into the topic of security, release management and quality control.
+          I have had the pleasure of migrating old pipelines and replacing them with new ones, and adding new automated functionalities to ensure less manual work is required from everyone.
         </p>
       </Section>
     </Element>
