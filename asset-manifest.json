@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b7f0ba9.chunk.css",
-    "main.js": "/static/js/main.6f8848c0.chunk.js",
-    "main.js.map": "/static/js/main.6f8848c0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f752a9c6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f752a9c6.js.map",
-    "static/js/2.2cd7e2c6.chunk.js": "/static/js/2.2cd7e2c6.chunk.js",
-    "static/js/2.2cd7e2c6.chunk.js.map": "/static/js/2.2cd7e2c6.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.8b7f0ba9.chunk.css.map": "/static/css/main.8b7f0ba9.chunk.css.map",
-    "static/js/2.2cd7e2c6.chunk.js.LICENSE.txt": "/static/js/2.2cd7e2c6.chunk.js.LICENSE.txt"
+    "main.css": "/www.viskov.ee/static/css/main.8b7f0ba9.chunk.css",
+    "main.js": "/www.viskov.ee/static/js/main.6f8848c0.chunk.js",
+    "main.js.map": "/www.viskov.ee/static/js/main.6f8848c0.chunk.js.map",
+    "runtime-main.js": "/www.viskov.ee/static/js/runtime-main.cf29aafe.js",
+    "runtime-main.js.map": "/www.viskov.ee/static/js/runtime-main.cf29aafe.js.map",
+    "static/js/2.2cd7e2c6.chunk.js": "/www.viskov.ee/static/js/2.2cd7e2c6.chunk.js",
+    "static/js/2.2cd7e2c6.chunk.js.map": "/www.viskov.ee/static/js/2.2cd7e2c6.chunk.js.map",
+    "index.html": "/www.viskov.ee/index.html",
+    "static/css/main.8b7f0ba9.chunk.css.map": "/www.viskov.ee/static/css/main.8b7f0ba9.chunk.css.map",
+    "static/js/2.2cd7e2c6.chunk.js.LICENSE.txt": "/www.viskov.ee/static/js/2.2cd7e2c6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f752a9c6.js",
+    "static/js/runtime-main.cf29aafe.js",
     "static/js/2.2cd7e2c6.chunk.js",
     "static/css/main.8b7f0ba9.chunk.css",
     "static/js/main.6f8848c0.chunk.js"
