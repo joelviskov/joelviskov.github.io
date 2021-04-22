@@ -15,9 +15,9 @@ const IntroductionSection = () => {
         <p>
           Currently my team is responsible for the development of business-critical systems in one of the largest telecommunication companies in Scandinavia.
           I'm showing high interest in DevOps world, automating CI/CD pipelines and ensuring high quality of code with less work and faster development cycle.
-          I have taken the responsibility of ensuring smooth deliveries, mentoring team members on good practises and setting up montitoring of staging and production environments.
+          I have taken the responsibility of ensuring smooth deliveries, mentoring team members on good practises and setting up monitoring of staging and production environments.
           Team members characterize me as very quick learner and not afraid to pick up any challenge. Numerous times I have been assigned a task on unfamiliar project and
-          I've found it easy to figure everything out, and it I think it even provides me excitement to see new systems and learn from them.
+          I've found easy to figure everything out, and I think it even provides me excitement to see new systems and learn from them.
           Over time I have done numerous demos to clients, and application demo to a audience of ~50 people.
         </p>
 

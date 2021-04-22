@@ -13,7 +13,7 @@ const ExperienceSection = () => {
         <br />
         <h4>School experience</h4>
         <ul>
-          <li>2018-2022 - TalTech Univesity (Business Information Technology)</li>
+          <li>2018-2022 - TalTech University (Business Information Technology)</li>
           <li>2002-2016 - Tõrva Gymnasium</li>
         </ul>
       </Section>
