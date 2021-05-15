@@ -1,2 +1,3 @@
-### WIP - Source code of my GitHub user page.
-Developed using create-react-app.
+### Personal page...
+- Developed using create-react-app.
+- Hosted on GitHub Pages.
