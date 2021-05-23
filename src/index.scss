@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #f6f0dd;
+  color: #742a1e;
+}
+
+.react-icons {
+  vertical-align: middle;
+  margin: 1em;
+
+  &:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: all 0.2s;
+  }
+}
+
+.wrapper {
+  position: relative;
+  text-align: center;
+  height: 100vh;
+}
+
+.icons {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

@@ -1,26 +1,23 @@
 import React from 'react';
-import './styles/index.scss';
-import Portrait from './sections/PortraitSection';
-import SkillSection from './sections/SkillSection';
-import ExperienceSection from './sections/ExperienceSection';
-import Header from './sections/header/Header';
-import IntroductionSection from './sections/IntroductionSection';
+import { FaLinkedin, FaGithubAlt } from 'react-icons/fa';
+import { MdEmail } from 'react-icons/md';
+import { IconContext } from 'react-icons'
+import './index.scss'
 
 const App = () => {
   return (
-    <div>
-      <Header />
+    <IconContext.Provider value={{ size: '5em', className: 'react-icons' }}>
+      <div className='wrapper'>
+        <p className='icons'>
+          <FaGithubAlt onClick={() => window.open("https://github.com/joelviskov", "_blank")} />
+          <FaLinkedin onClick={() => window.open("https://www.linkedin.com/in/joel-viskov", "_blank")} />
+          <MdEmail onClick={() => window.open("mailto:joelviskov@gmail.com", "_blank")} />
+        </p>
+      </div >
+    </IconContext.Provider>
 
-      <Portrait />
-
-      <div className="content">
-        <IntroductionSection />
-        <ExperienceSection />
-        <SkillSection />
-      </div>
-
-    </div >
   );
 }
+
 
 export default App;
