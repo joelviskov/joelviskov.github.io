@@ -11,8 +11,7 @@ const App = () => {
         <div className='content'>
           <div>
             <h1 className="name">Joel Viskov</h1>
-            <h2>Software Engineer</h2>
-            <small className="extra">You can find out more about me by following these links.</small>
+            <h2>Software Engineer | DevOps</h2>
           </div>
 
           <div>

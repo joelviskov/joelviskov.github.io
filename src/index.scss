@@ -38,7 +38,7 @@ footer {
   -moz-transform: translateX(-50%) translateY(-50%);
   -webkit-transform: translateX(-50%) translateY(-50%);
   background-color: rgb(255, 255, 255, 0.95);
-  box-shadow: 0 0.5em 1em black;
+  box-shadow: 0 0.75em 0.5em black;
   border-radius: 2em;
   padding: 3em;
 }
@@ -65,10 +65,6 @@ footer {
 }
 
 @media only screen and (max-width: 960px) {
-  .extra {
-    display: none;
-  }
-
   .illustration {
     width: 100vw;
   }
