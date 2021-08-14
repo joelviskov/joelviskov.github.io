@@ -1,19 +1,28 @@
 * {
   margin: 0;
   padding: 0;
-  background-color: #f6f0dd;
-  color: #742a1e;
+  font-family: sans-serif;
+  font-weight: 500;
 }
 
-.react-icons {
-  vertical-align: middle;
-  margin: 1em;
+body {
+  background-color: #f6f0dd;
+  height: 100%;
+}
 
-  &:hover {
-    cursor: pointer;
-    transform: scale(1.1);
-    transition: all 0.2s;
-  }
+a {
+  text-decoration: underline;
+  color: black;
+}
+
+footer {
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
 }
 
 .wrapper {
@@ -22,9 +31,59 @@
   height: 100vh;
 }
 
-.icons {
+.content {
   position: absolute;
-  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  background-color: rgb(255, 255, 255, 0.95);
+  box-shadow: 0 0.5em 1em black;
+  border-radius: 2em;
+  padding: 3em;
+}
+
+.name {
+  font-weight: 600;
+}
+
+.react-icons {
+  margin: 0.5em;
+
+  &:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: all 0.3s;
+  }
+}
+
+.illustration {
+  z-index: -1;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+@media only screen and (max-width: 960px) {
+  .extra {
+    display: none;
+  }
+
+  .illustration {
+    width: 100vw;
+  }
+
+  .content {
+    top: 50%;
+  }
+}
+
+@media only screen and (min-width: 960px) {
+  .content {
+    top: 50%;
+  }
+
+  .illustration {
+    height: 60vh;
+  }
 }
